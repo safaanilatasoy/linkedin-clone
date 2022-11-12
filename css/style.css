@@ -77,6 +77,7 @@
   
   div.card {
     border-radius: 10px;
+
   }
   
   .header {
@@ -135,6 +136,7 @@
     font-weight: bold;
     font-size: 14px;
     margin-left: 8px;
+    
   }
 .profile-pic{
     border:2px solid #fff;
